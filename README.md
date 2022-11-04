@@ -75,5 +75,10 @@ Code-Blocke
 
 #### Ein Bild Hinzufügen
 
-    ! [Ein Bild] (https://www.heise.de/news/Spass-gehoert-dazu-Die-Bilder-der-Woche-KW01-6447043.html)
->>>>>>> 628f005 (Archlinux Bild)
+    ![Ein Bild](Bilder/PECORA.jpg)
+
+#### Hyperliks Hinzufügen
+
+    [ArchWiki](https://wiki.archlinux.org/)
+
+
