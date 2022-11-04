@@ -8,10 +8,22 @@ Author: Renato Palavecino
 Keywords:   Git, Github, Linux
 
 
-# Git Repository loka erstellen
+# Git Repository lokal erstelle
 
 ## Projekt Umgebung vorbereiten
 
+### SSH schluessel Key erstellen
+    
+    ssh-keygen
+
+#### Kopieren PublicKey in GitHub
+
+    cat .ssh/id_rsa.pub
+
+#### Ueberprufen die Verbindung mit GitHub
+
+    ssh -T git@github.com
+    
 #### Erstellen Sie ein Vezeichnis mit dem Name Projekt1
 
     cd
@@ -54,6 +66,12 @@ Code-Blocke
     git add -A
     git commit -m "Erstes Commit"
     git status
+
+#### Lokal Repository "Push" zum GitHub
+
+    git push -u origin master
+
+
 
 #### Ein Bild Hinzufügen
 
