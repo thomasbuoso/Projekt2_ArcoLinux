@@ -75,7 +75,7 @@ Code-Blocke
 
 #### Ein Bild Hinzufügen
 
-    ![Alt-Text](Bilder/PECORA.png)
+    ![Alt-Text](Bilder/Pecora.png)
 
 #### Hyperliks Hinzufügen
 
