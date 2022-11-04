@@ -75,10 +75,10 @@ Code-Blocke
 
 #### Ein Bild Hinzufügen
 
-    ![Ein Bild](Bilder/PECORA.jpg)
+    ! [Ein Bild](Bilder/PECORA.jpg)
 
 #### Hyperliks Hinzufügen
 
-    [ArchWiki](https://wiki.archlinux.org/)
+    [ArchWiki](https://www.wiki.archlinux.org/"ArchWiki")
 
 
