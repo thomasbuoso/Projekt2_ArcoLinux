@@ -78,7 +78,8 @@ Code-Blocke
     ![Alt-Text](Bilder/Archlinux.jpg)
     
 #### Hyperliks Hinzufügen
-
+![Alt-Text](Bilder/Pecora.png)
+[ArchWiki](https://wiki.archlinux.org "ArchWiki")
 [ArchWiki](https://wiki.archlinux.org "ArchWiki")
 
 
