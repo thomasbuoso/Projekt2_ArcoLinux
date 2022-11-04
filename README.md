@@ -79,6 +79,6 @@ Code-Blocke
 
 #### Hyperliks Hinzufügen
 
-    [ArchWiki] (https://wiki.archlinux.org/"ArchWiki")
+    [Link-Text] (https://wiki.archlinux.org/"ArchWiki")
 
 
